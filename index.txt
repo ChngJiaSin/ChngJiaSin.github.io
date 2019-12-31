@@ -9,7 +9,7 @@
 
 <!-- Site navigation menu --> 
 <ul class="navbar"> 
-<li><a href="Jx..html" target="_blank">Home page</a></li> 
+<li><a href="index.html" target="_blank">Home page</a></li> 
 <li><a href="Intro..pptx" target="_blank">About</a></li> 
 <li><a href="CV.docx" target="_blank">CV</a></li> 
 <li><a href="Mooncity.xlsx" target="_blank">Rainfall of Mooncity</a></li> 
